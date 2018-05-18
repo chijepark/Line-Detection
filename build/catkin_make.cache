@@ -1,0 +1,2 @@
+cv_test
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/ros_catkin_test/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros_catkin_test/install -G Unix Makefiles
